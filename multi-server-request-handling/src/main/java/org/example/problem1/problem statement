@@ -1,0 +1,5 @@
+you have 5 servers handling requests from multiple clients
+the servers should process the requests with the following constraint
+    if a server is processing a request, other servers have to wait for it to complete the request
+
+

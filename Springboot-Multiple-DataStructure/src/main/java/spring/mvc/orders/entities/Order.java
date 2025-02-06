@@ -1,57 +1,32 @@
 package spring.mvc.orders.entities;
 
-import javax.persistence.*;
 import java.util.Set;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
+import lombok.Getter;
+import lombok.Setter;
 
-/**
- * @Created 08 / 04 / 2020 - 5:46 PM
- * @project SpringMultipleDataStructure
- * @Author Hamdamboy
- */
 @Entity
 @Table(name = "ORDERS")
+@Getter
+@Setter
 public class Order {
-    //
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Integer id;
-    @Column(nullable = false, name = "cust_name")
-    private String customerName;
-    @Column(nullable = false, name = "cust_email")
-    private String customerEmail;
+	//
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Integer id;
 
-    @OneToMany(mappedBy = "order")
-    private Set<OrderItem> orderItems;
+	@Column(nullable = false, name = "cust_name")
+	private String customerName;
 
-    public Integer getId() {
-        return id;
-    }
+	@Column(nullable = false, name = "cust_email")
+	private String customerEmail;
 
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getCustomerName() {
-        return customerName;
-    }
-
-    public void setCustomerName(String customerName) {
-        this.customerName = customerName;
-    }
-
-    public String getCustomerEmail() {
-        return customerEmail;
-    }
-
-    public void setCustomerEmail(String customerEmail) {
-        this.customerEmail = customerEmail;
-    }
-
-    public Set<OrderItem> getOrderItems() {
-        return orderItems;
-    }
-
-    public void setOrderItems(Set<OrderItem> orderItems) {
-        this.orderItems = orderItems;
-    }
+	@OneToMany(mappedBy = "order")
+	private Set<OrderItem> orderItems;
 }

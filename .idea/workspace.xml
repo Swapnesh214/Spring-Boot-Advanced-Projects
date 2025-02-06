@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1485acfc-cbf1-4bc3-841e-2e5612f366aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filerenamer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filerenamer/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login-registration-springboot-hibernate-jsp-auth Maven Webapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MERN-SocialMedia-App" beforeDir="false" afterPath="$PROJECT_DIR$/../../MERN-SocialMedia-App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MyChat App" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyChat App" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../amazone_clone" beforeDir="false" afterPath="$PROJECT_DIR$/../../amazone_clone" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../e_commerce_app" beforeDir="false" afterPath="$PROJECT_DIR$/../../e_commerce_app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../facebook" beforeDir="false" afterPath="$PROJECT_DIR$/../../facebook" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../insta-Clone/insta_clone_react" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta-Clone/insta_clone_react" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../linkedin" beforeDir="false" afterPath="$PROJECT_DIR$/../../linkedin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../netflix_clone" beforeDir="false" afterPath="$PROJECT_DIR$/../../netflix_clone" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../news-app-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../news-app-react" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../project_corona_tracker" beforeDir="false" afterPath="$PROJECT_DIR$/../../project_corona_tracker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../video-chat" beforeDir="false" afterPath="$PROJECT_DIR$/../../video-chat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../whatsapp-clone-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../whatsapp-clone-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/MvcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/MvcApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/config/OrderDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/config/OrderDataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/config/SecurityDataSoruceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/config/SecurityDataSoruceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/orders/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/orders/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/orders/entities/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/orders/entities/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/orders/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/orders/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/security/entity/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/security/entity/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/security/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/security/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/security/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/security/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/service/entity/UserOrdersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/java/spring/mvc/service/entity/UserOrdersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/main/resources/security-data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/test/java/spring/mvc/MvcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot-Multiple-DataStructure/src/test/java/spring/mvc/MvcApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,18 +41,26 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="227br8ZxCqfLEqxvTkNP3JFzHM9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Home/LOCAL/Spring boot advanced projects/Spring-Boot-Advanced-Projects&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,5 +71,10 @@
       <updated>1639191779653</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
 </project>
